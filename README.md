@@ -25,6 +25,12 @@
 <p>
   <img src="https://github.com/lpc864/lpc864/blob/main/images/java.svg" />
   <img src="https://github.com/lpc864/lpc864/blob/main/images/c%23%23.svg" width="50" height="50"/>
-
 </p>
 
+<h2>
+  🤙 Contact me
+</h2>
+
+<a href="https://github.com/lpc864/lpc864/blob/main/images/linkedin.svg">
+    <img src="image.jpg" alt="linkedin">
+</a>
