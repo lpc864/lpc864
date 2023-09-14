@@ -32,5 +32,5 @@
 </h2>
 
 <a href="https://www.linkedin.com/">
-    <img src="https://github.com/lpc864/lpc864/blob/main/images/linkedin.svg" alt="linkedin">
+    <img src="https://github.com/lpc864/lpc864/blob/main/images/linkedin.svg" width="50" height="50" alt="linkedin">
 </a>
