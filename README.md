@@ -31,6 +31,6 @@
   🤙 Contact me
 </h2>
 
-<a href="https://github.com/lpc864/lpc864/blob/main/images/linkedin.svg">
-    <img src="image.jpg" alt="linkedin">
+<a href="https://www.linkedin.com/">
+    <img src="https://github.com/lpc864/lpc864/blob/main/images/linkedin.svg" alt="linkedin">
 </a>
