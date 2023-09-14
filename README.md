@@ -3,13 +3,11 @@
 </p>
 
 <h1 align="center">
-  Welcome to my profile
+    Hello, world! 👋
 </h1>
 
 <p>
-  <br>
-  Hello, world! 👋
-
+  
   <br>
   <br>
   I'm a third-year Computer Science student at the University of Almería. I have a passion for      programming, which I see as a form of art where I get to be the artist. Every line of code I 
