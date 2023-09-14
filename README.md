@@ -13,8 +13,6 @@
 
   I love learning new things and am always on the lookout for new ideas and perspectives. My curiosity drives me to explore different areas of computer science and 
   technology. I believe that there's always something new to learn and a new challenge to tackle
-
-  Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or discuss ideas!
   
 </p>
 
