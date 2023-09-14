@@ -23,6 +23,6 @@
 </h2>
 
 <p>
-  <img src="https://github.com/lpc864/lpc864/blob/main/images/java.png" />
+  <img src="https://github.com/lpc864/lpc864/blob/main/images/java.svg" />
 </p>
 
