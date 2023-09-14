@@ -24,7 +24,7 @@
 
 <p>
   <img src="https://github.com/lpc864/lpc864/blob/main/images/java.svg" />
-  <img src="https://github.com/lpc864/lpc864/blob/main/images/c%23%23.svg" />
+  <img src="https://github.com/lpc864/lpc864/blob/main/images/c%23%23.svg" width="50" height="50"/>
 
 </p>
 
