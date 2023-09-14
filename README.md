@@ -17,3 +17,8 @@
   Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or discuss ideas!
   
 </p>
+
+<h2>
+  Tech stack
+</h2>
+
