@@ -22,3 +22,7 @@
   Tech stack
 </h2>
 
+<p>
+  <img src="https://github.com/lpc864/lpc864/blob/main/images/java.jpg" />
+</p>
+
