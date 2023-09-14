@@ -19,7 +19,7 @@
 </p>
 
 <h2>
-  Tech stack
+  💻 Tech stack
 </h2>
 
 <p>
