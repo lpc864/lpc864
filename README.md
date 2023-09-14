@@ -8,10 +8,8 @@
 
 <p>
   
-  <br>
-  I'm a third-year Computer Science student at the University of Almería. I have a passion for      programming, which I see as a form of art where I get to be the artist. Every line of code I 
-  write is like a brushstroke on a canvas, creating something beautiful and functional from 
-  nothing
+  I'm a third-year Computer Science student at the University of Almería. I have a passion for      programming, which I see as a form of art where I get to be the 
+  artist. Every line of code I write is like a brushstroke on a canvas, creating something beautiful and functional from nothing
 
   <br>
   <br>
